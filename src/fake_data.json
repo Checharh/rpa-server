@@ -1,0 +1,227 @@
+[
+  {
+    "_id": "67b854c34b26f1c308a29f56",
+    "index": 0,
+    "guid": "f4907207-d639-4fb2-8671-4c2ade71bc60",
+    "isActive": true,
+    "balance": "$1,397.94",
+    "picture": "http://placehold.it/32x32",
+    "age": 27,
+    "eyeColor": "green",
+    "name": "Renee Haley",
+    "gender": "female",
+    "company": "INFOTRIPS",
+    "email": "reneehaley@infotrips.com",
+    "phone": "+1 (985) 508-2612",
+    "address": "178 Denton Place, Wadsworth, Kentucky, 1951",
+    "about": "Est amet sit nulla nisi. Culpa aute ipsum minim in voluptate qui deserunt. Cillum magna eiusmod Lorem Lorem nostrud in eiusmod elit enim et eu anim cupidatat. Occaecat dolor nulla qui exercitation nostrud Lorem enim fugiat aliqua labore minim id ullamco pariatur.\r\n",
+    "registered": "2022-05-19T04:27:13 +04:00",
+    "latitude": -60.442162,
+    "longitude": -46.755852,
+    "tags": [
+      "pariatur",
+      "eu",
+      "non",
+      "ea",
+      "adipisicing",
+      "commodo",
+      "sit"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Lewis Schmidt"
+      },
+      {
+        "id": 1,
+        "name": "Allison Harris"
+      },
+      {
+        "id": 2,
+        "name": "Fletcher Burke"
+      }
+    ],
+    "greeting": "Hello, Renee Haley! You have 7 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "67b854c35719bb368141e269",
+    "index": 1,
+    "guid": "fc250d4f-9550-40da-b5cc-4057162c7cd7",
+    "isActive": false,
+    "balance": "$3,467.14",
+    "picture": "http://placehold.it/32x32",
+    "age": 24,
+    "eyeColor": "brown",
+    "name": "Kane Pittman",
+    "gender": "male",
+    "company": "PODUNK",
+    "email": "kanepittman@podunk.com",
+    "phone": "+1 (987) 534-2969",
+    "address": "456 Polhemus Place, Thynedale, Arizona, 2884",
+    "about": "Anim do laboris voluptate fugiat anim labore adipisicing sint et. Esse esse in excepteur ullamco exercitation qui consequat cillum duis Lorem ea id ad aliquip. Culpa Lorem pariatur duis aute id in ex occaecat laboris. Eu nostrud enim consequat ipsum excepteur duis.\r\n",
+    "registered": "2018-09-25T11:06:49 +04:00",
+    "latitude": -18.200607,
+    "longitude": 170.618146,
+    "tags": [
+      "exercitation",
+      "magna",
+      "sint",
+      "deserunt",
+      "elit",
+      "in",
+      "sit"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Rhoda Beach"
+      },
+      {
+        "id": 1,
+        "name": "Byrd Duran"
+      },
+      {
+        "id": 2,
+        "name": "Marva Merritt"
+      }
+    ],
+    "greeting": "Hello, Kane Pittman! You have 4 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "67b854c3605cc50c44984fdd",
+    "index": 2,
+    "guid": "284df841-0897-4527-ab40-e47eeb01cb75",
+    "isActive": true,
+    "balance": "$1,975.32",
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "eyeColor": "green",
+    "name": "Julia Scott",
+    "gender": "female",
+    "company": "ZENSURE",
+    "email": "juliascott@zensure.com",
+    "phone": "+1 (890) 483-3934",
+    "address": "299 Tompkins Avenue, Shaft, Maryland, 6152",
+    "about": "Anim laboris amet in cillum labore do labore consectetur occaecat reprehenderit ex. Eu velit id deserunt labore labore pariatur dolor dolor nisi labore. Adipisicing culpa ea eu duis duis velit sint. Sunt quis occaecat qui in eu minim voluptate officia excepteur. Aliquip et dolore proident veniam quis commodo dolore pariatur cillum fugiat velit.\r\n",
+    "registered": "2015-04-26T09:51:42 +04:00",
+    "latitude": 74.863823,
+    "longitude": -68.022249,
+    "tags": [
+      "consequat",
+      "officia",
+      "amet",
+      "occaecat",
+      "irure",
+      "occaecat",
+      "fugiat"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Aimee Harding"
+      },
+      {
+        "id": 1,
+        "name": "Cornelia Matthews"
+      },
+      {
+        "id": 2,
+        "name": "Shawn Shannon"
+      }
+    ],
+    "greeting": "Hello, Julia Scott! You have 10 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "67b854c326d667effb9dba26",
+    "index": 3,
+    "guid": "62b310eb-f0b1-4090-ab91-c3c165ae7a04",
+    "isActive": true,
+    "balance": "$3,920.35",
+    "picture": "http://placehold.it/32x32",
+    "age": 26,
+    "eyeColor": "green",
+    "name": "Holden Snow",
+    "gender": "male",
+    "company": "MEDMEX",
+    "email": "holdensnow@medmex.com",
+    "phone": "+1 (801) 465-3175",
+    "address": "291 Newkirk Avenue, Tampico, Pennsylvania, 1987",
+    "about": "Consectetur laborum commodo sit pariatur consequat commodo ex amet irure commodo incididunt duis. Laborum eiusmod officia non qui. Irure id labore irure ullamco est qui nostrud laboris ex ipsum tempor Lorem incididunt pariatur. Ad enim irure reprehenderit magna irure nostrud nostrud nostrud reprehenderit dolore irure sint. Do do magna occaecat amet. Esse deserunt deserunt elit ex eu aliqua commodo cillum dolor dolor labore consectetur.\r\n",
+    "registered": "2014-05-02T01:21:48 +04:00",
+    "latitude": 71.951926,
+    "longitude": 117.959055,
+    "tags": [
+      "eu",
+      "magna",
+      "ad",
+      "et",
+      "nostrud",
+      "sint",
+      "duis"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Church Everett"
+      },
+      {
+        "id": 1,
+        "name": "Adkins Maynard"
+      },
+      {
+        "id": 2,
+        "name": "Marlene Flynn"
+      }
+    ],
+    "greeting": "Hello, Holden Snow! You have 6 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "67b854c37c27fdee9c3862cf",
+    "index": 4,
+    "guid": "18ef365c-bba9-40bd-a302-71b83fd67d3c",
+    "isActive": true,
+    "balance": "$3,441.26",
+    "picture": "http://placehold.it/32x32",
+    "age": 30,
+    "eyeColor": "blue",
+    "name": "Nicholson Bright",
+    "gender": "male",
+    "company": "ZENTURY",
+    "email": "nicholsonbright@zentury.com",
+    "phone": "+1 (839) 565-3830",
+    "address": "137 Louise Terrace, Carrsville, South Carolina, 8786",
+    "about": "Do exercitation magna nulla sunt quis minim. Ipsum sunt ad laborum pariatur do minim aliquip quis deserunt enim. Esse exercitation et et cupidatat exercitation commodo tempor voluptate elit eiusmod do. Sint Lorem excepteur velit consectetur eu ea consectetur proident qui aliqua irure eiusmod non. Officia labore in adipisicing aliqua in sint laboris magna dolore magna amet mollit.\r\n",
+    "registered": "2015-03-05T09:01:41 +04:00",
+    "latitude": -15.827783,
+    "longitude": 147.143738,
+    "tags": [
+      "sint",
+      "ut",
+      "est",
+      "excepteur",
+      "in",
+      "esse",
+      "consequat"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Etta Lancaster"
+      },
+      {
+        "id": 1,
+        "name": "Lori Villarreal"
+      },
+      {
+        "id": 2,
+        "name": "Goodwin Pugh"
+      }
+    ],
+    "greeting": "Hello, Nicholson Bright! You have 8 unread messages.",
+    "favoriteFruit": "strawberry"
+  }
+]

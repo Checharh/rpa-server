@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "node16",
+    "baseUrl": "src",
+    "esModuleInterop": true,
+    "target": "es6",
+    "sourceMap": true,
+    "outDir": "dist",
+    "noImplicitAny": true,
+  },
+  //"lib": ["es2015"],
+  "include": ["src/**/*"]
+}
